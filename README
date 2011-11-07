@@ -1,0 +1,13 @@
+Instructions:
+
+Copy ex1data1.txt from mlclass-ex1 to this folder and
+complete the code in:
+
+    warmUpExercise.py
+    plotData.py
+    computeCost.py
+    gradientDescent.py
+
+run ex1.py
+
+Tested with python 2.7 on windows
