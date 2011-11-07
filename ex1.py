@@ -99,7 +99,10 @@ def gradientDescent(X, y, theta, alpha, num_iters):
 
 if __name__ == '__main__':
     """
-    Machine Learning Online Class - Excercise 1: Linear Regression
+    Scaffold of Machine Learning Online Class - Excercise 1:
+    Linear Regression in Python
+
+    Original in Octave.
 
       Instructions
       ------------
